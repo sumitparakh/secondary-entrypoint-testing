@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'demo1',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'secondary-entrypoint-demo'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath E:\opensource\DevXpo\secondary-entrypoint-demo
+3 error HttpErrorGeneral: 404 Not Found - GET https://registry.npmjs.org/secondary-entrypoint-demo - Not found
+3 error     at C:\Users\sumitparakh\AppData\Roaming\nvm\v14.15.1\node_modules\lerna\node_modules\npm-registry-fetch\check-response.js:95:15
